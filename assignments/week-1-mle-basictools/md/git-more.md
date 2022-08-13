@@ -2,14 +2,14 @@
 
 ## DoD (Definition of Done)
 At a high level, get comfortable with [Git Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow); specifically, you should complete the following
-- [ ] Create a public repo on GitHub
-- [ ] Several commits with meaningful messages.
-- [ ] Create a branch and the branch name should be descriptive.
-- [ ] Create Pull requests on GitHub
-- [ ] Conduct Code Review 
-- [ ] Merge pull requests into the `main` branch
-- [ ] Delete the branch remotely and locally when done
-- [ ] Pull changes from a remote repository
+- [x] Create a public repo on GitHub
+- [x] Several commits with meaningful messages.
+- [x] Create a branch and the branch name should be descriptive.
+- [x] Create Pull requests on GitHub
+- [x] Conduct Code Review 
+- [x] Merge pull requests into the `main` branch
+- [x] Delete the branch remotely and locally when done
+- [x] Pull changes from a remote repository
 
 ## Step by Step Instructions
 Detailed instructions for a team project repo, adapted from the example in Git Feature Branch Workflow. 
@@ -21,10 +21,10 @@ IMPORTANT. Explain explicitly what each step does to your partner. If the code o
     - Bill - Team Member B
 
 1. Bill creates a new repo on GitHub called `naive-addition` and adds Apple as a collaborator.
-    - [ ] Repo is made public.
-    - [ ] Repo includes README.md.
-    - [ ] Repo includes LICENSE (e.g., MIT).
-    - [ ] Repo includes .gitignore file (e.g., for Python).
+    - [x] Repo is made public.
+    - [x] Repo includes README.md.
+    - [x] Repo includes LICENSE (e.g., MIT).
+    - [x] Repo includes .gitignore file (e.g., for Python).
 
 2. Apple and Bill clone the repo locally ( replace the handle and repo with the names of your GitHub repo ).
     - `git clone git@github.com:<handle>/naive-addition.git`
