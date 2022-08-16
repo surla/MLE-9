@@ -142,7 +142,7 @@ Enter the following commands in terminal to setup your environment. When prompte
   7. And then add your own remote as the new `origin`, **which you will probably need to make manually if you plan on pushing it back to Github**. See here.
   
   ```console
-  git remote add origin https://github.com/author/ForkName
+  git remote add origin git@github.com:username/repository.git
   ```
 
 
