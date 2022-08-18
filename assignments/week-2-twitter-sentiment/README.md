@@ -54,7 +54,7 @@ Let's get started by creating a Week 2 Repository!
 6. Once that is complete, we'll `cd` into the newly created folder with
      
      ```console
-     cd week-2-analyze-sentiment-twitter
+     cd week-2-twitter-sentiment
      ```
      
 7. Now, let's init our repository in this folder using
