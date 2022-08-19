@@ -33,13 +33,13 @@ Let's get started by creating a Week 2 Repository!
      
 ![image](https://user-images.githubusercontent.com/19699016/176269140-57baeb17-9e97-412b-bd9b-866dc7012e85.png)
 
-3. Now that you've done the required set-up on GitHub.com, let's move to our terminal and clone the MLE-8 repository!
+3. Now that you've done the required set-up on GitHub.com, let's move to our terminal and clone the MLE-9 repository!
      
      ```console
-     git clone git@github.com:FourthBrain/MLE-8.git
+     git clone git@github.com:FourthBrain/MLE-9.git
      ```
      
-4. OPTIONAL: If you've already cloned the MLE-8 repository - feel free to pull the recent changes by `cd`ing into the directory that contains the MLE-8 repo, and running this command. Be sure to return to the parent directory before moving on! (`cd ..`)
+4. OPTIONAL: If you've already cloned the MLE-9 repository - feel free to pull the recent changes by `cd`ing into the directory that contains the MLE-9 repo, and running this command. Be sure to return to the parent directory before moving on! (`cd ..`)
      
      ```console
       git pull origin main
@@ -48,13 +48,13 @@ Let's get started by creating a Week 2 Repository!
 5. Now, we're going to copy the contents of the assignment to a new folder using the following command
      
      ```console
-     cp -r MLE-8/assignments/week-2-analyze-sentiment-twitter .
+     cp -r MLE-9/assignments/week-2-twitter-sentiment .
      ```
      
 6. Once that is complete, we'll `cd` into the newly created folder with
      
      ```console
-     cd week-2-analyze-sentiment-twitter
+     cd week-2-twitter-sentiment
      ```
      
 7. Now, let's init our repository in this folder using
