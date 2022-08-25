@@ -45,4 +45,4 @@ Run all of the cells in the notebook.
 
 
 ## Background
-Please review the weekly narrative [here](https://www.notion.so/Week-3-Ensuring-High-Quality-Data-72851d57aaaf4068b60957f7b5e1891c)
+Please review the weekly narrative [here](https://great-yamamomo-5c3.notion.site/Week-3-Ensuring-High-Quality-Data-72851d57aaaf4068b60957f7b5e1891c)
